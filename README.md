@@ -261,3 +261,4 @@ Once this is done, you can SSH in, and build and test:
 Of course, the drawback of having a standard development environment is that you stop noticing bugs that occur outside of it.
 For this reason, Vagrant isn’t a *necessary* development step — it’s there if you’d like to use it, but exa still gets used and tested on other platforms.
 It can still be built and compiled on any target triple that it supports, VM or no VM, with `cargo build` and `cargo test`.
+
